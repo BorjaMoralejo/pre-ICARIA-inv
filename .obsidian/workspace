@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c4badfbdaab80551",
+    "type": "split",
+    "children": [
+      {
+        "id": "d539ee2d3e97bb57",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6104e1848488d05e",
+    "type": "split",
+    "children": [
+      {
+        "id": "55999d681234a5b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c673acb07da63c68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e49672edc5824133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 542
+  },
+  "right": {
+    "id": "38ecf1998996c7de",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66cb39b7d1fd256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9585a044eb0f3468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d539ee2d3e97bb57",
+  "lastOpenFiles": [
+    "TODO.md",
+    "Notas.md",
+    "Doing/4-07-2022.md",
+    "Ideas/Ideas.md",
+    "Ideas/VariabilityAwareScheduler.md",
+    "Papers/Power_Efficient_Job_Scheduling_by_Predicting.md",
+    "Doing/1-07-2022.md",
+    "Ideas/ML+Size.md",
+    "Ideas/RuntimePred.md",
+    "Ideas/IntelligentJobStripping.md"
+  ]
+}
