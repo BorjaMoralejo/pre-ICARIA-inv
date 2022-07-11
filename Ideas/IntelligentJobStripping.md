@@ -6,7 +6,7 @@ Hacer job striping y tener en cuenta el uso de recursos. (+ backfilling)
 
 Si hay dos tareas ejecutandose, que una sea la principal y otra la secundaria y que tenga prioridad la principal. (esto que en su momento lo escribi sin leer demasiado, no sabia que era backfilling)
 
-Si llega un punto en el que los dos estan fallando mucho de cache, se cambia el secundario por uno que se sepa que falla mucho de tlb y el que se retira se quedaria marcado como que falla de cache(+ otras propiedades anteriores, al ser la mayoria iterativos)
+Si llega un punto en el que los dos estan fallando mucho de cache, se cambia el secundario por uno que se sepa que falla mucho de tlb y el que se retira se quedaria marcado como que falla de cache(+ otras propiedades anteriores, al ser la mayoria iterativos). Sería migrar tareas a otros cores con menos uso de cache.
 
 [[Improving_the_Performance_of_Batch_Schedulers]]
 [[backfilling_paper]]

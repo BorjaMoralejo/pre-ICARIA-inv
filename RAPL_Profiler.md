@@ -1,0 +1,4 @@
+- [ ] Obtener parámetros como cache misses y bus usage. Hay artículos que mencionan cuáles son los más interesantes.
+- [ ] Usar RAPL para tomar muestreo más frecuentemente y obtener un perfilado de la aplicación. Analizar precisión y ver si es correcto viendo si se encuentran patrones mediante una representación gráfica.
+- [ ] Probar obtener perfilado de otras aplicaciones o benchmarks.
+- [ ] Probar en lanzar dos aplicaciones "conflictivas" en diferentes cores y analizar interacción. Ver si afecta al tiempo de ejecución o no. Seguramente tenga que desactivar hyperthreading para estar seguros de que nada raro esté pasando.

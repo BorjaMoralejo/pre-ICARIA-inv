@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "d539ee2d3e97bb57",
+        "id": "5e997e8c9f62b492",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5e2587396a952531",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RAPL_Profiler.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RAPL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d539ee2d3e97bb57",
+  "active": "5e997e8c9f62b492",
   "lastOpenFiles": [
     "TODO.md",
-    "Notas.md",
-    "Doing/4-07-2022.md",
-    "Ideas/Ideas.md",
-    "Ideas/VariabilityAwareScheduler.md",
-    "Papers/Power_Efficient_Job_Scheduling_by_Predicting.md",
-    "Doing/1-07-2022.md",
-    "Ideas/ML+Size.md",
-    "Ideas/RuntimePred.md",
-    "Ideas/IntelligentJobStripping.md"
+    "RAPL_Consumo.md",
+    "RAPL_Profiler.md",
+    "Doing.md",
+    "Doing/11-07-2022.md",
+    "Doing/7-07-2022.md",
+    "Doing/8-07-2022.md",
+    "Doing/6-07-2022.md",
+    "Doing/5-07-2022.md",
+    "Doing/4-07-2022.md"
   ]
 }

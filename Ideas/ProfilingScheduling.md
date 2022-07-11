@@ -8,6 +8,4 @@ Aquí se podría usar machine learning (y otras cosas). La cosa sería detectar 
 
 Siempre se puede usar la parte de perfilado sin tanto detalle para otros coschedulers de todos modos. Lo principal de esta idea seria sacar un perfil de la aplicación sin información previa y que se pueda clasificar para coschedulear. 
 
-
-[[Power_Signatures_of_High_Performance_Com]]
-
+El bubble-up trata de esto pero sin machine learning.

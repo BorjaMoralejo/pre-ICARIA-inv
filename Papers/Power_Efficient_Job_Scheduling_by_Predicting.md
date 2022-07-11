@@ -30,3 +30,19 @@ También usan NAS benchmark, que lo he leido en otros papers, se menciona frecue
 Comentan que no pueden usar RAPL porque requiere de permisos de root.
 
 Usan perf como profiler
+
+
+6,~~7~~] Analisis de las pequeñas variaciones en la arquitectura afectan a la potencia
+6 Systematic Energy Characte
+
+13, 54] usan variability en scheduling
+13 runtime guided
+54] [[Scheduling_for_HPC_Systems]]
+
+
+~~4,~~13,~~16,22,27,~~53,54]
+
+
+
+53 [[Variation-Aware_Application_Scheduling]]
+Ojo, 39], manufacturing variability is going to increase.
